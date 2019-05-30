@@ -3,6 +3,7 @@
 
 @charset "UTF-8";
 @import "https://arizse.github.io/ugly-as-fuck/changes/css/tag-animations.css"; 
+@import url('https://tropix126.github.io/BetterDiscordStuff/friendgrid/v3/css/base.css');
 
 :root {
   --mc: var(--main-color);
