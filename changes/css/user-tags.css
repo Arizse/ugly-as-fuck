@@ -2,7 +2,7 @@
 
 
 @charset "UTF-8";
-@import url('https://arizse.github.io/ugly-as-fuck/changes/css/tag-animations.css');
+@import "https://arizse.github.io/ugly-as-fuck/changes/css/tag-animations.css"; 
 
 :root {
   --mc: var(--main-color);
