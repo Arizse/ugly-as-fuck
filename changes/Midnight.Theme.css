@@ -1,16 +1,26 @@
-/*//META{"name":"Midnight UI","description":"An almost black theme with sharp edges that is easy on the eyes and has glow in some places. Fully customizable through the theme file.","author":"Tropical","version":"1.7x", "website":"https://bit.ly/derealised", "source":"https://github.com/Arizse/ugly-as-fuck/blob/master/changes/css/base.css"}*//**/
+/*//META{"name":"Ugly As Fuck","description":"Its Fucking Ugly. Fully customizable through the theme file.","author":"Tropical","version":"1.7x", "website":"https://bit.ly/derealised", "source":"https://github.com/Arizse/ugly-as-fuck/blob/master/changes/css/base.css"}*//**/
 /*
-/$$      /$$ /$$       /$$           /$$           /$$         /$$
-| $$$    /$$$|__/      | $$          |__/          | $$        | $$
-| $$$$  /$$$$ /$$  /$$$$$$$ /$$$$$$$  /$$  /$$$$$$ | $$$$$$$  /$$$$$$
-| $$ $$/$$ $$| $$ /$$__  $$| $$__  $$| $$ /$$__  $$| $$__  $$|_  $$_/
-| $$  $$$| $$| $$| $$  | $$| $$  \ $$| $$| $$  \ $$| $$  \ $$  | $$
-| $$\  $ | $$| $$| $$  | $$| $$  | $$| $$| $$  | $$| $$  | $$  | $$ /$$
-| $$ \/  | $$| $$|  $$$$$$$| $$  | $$| $$|  $$$$$$$| $$  | $$  |  $$$$/
-|__/     |__/|__/ \_______/|__/  |__/|__/ \____  $$|__/  |__/   \___/
-                                         /$$  \ $$
-                                        |  $$$$$$/
-                                         \______/
+                       88              
+                        88              
+                        88              
+88       88  ,adPPYb,d8 88 8b       d8  
+88       88 a8"    `Y88 88 `8b     d8'  
+88       88 8b       88 88  `8b   d8'   
+"8a,   ,a88 "8a,   ,d88 88   `8b,d8'    
+ `"YbbdP'Y8  `"YbbdP"Y8 88     Y88'     
+             aa,    ,88        d8'      
+              "Y8bbdP"        d8'       
+                                                   
+            88                                     
+            ""                                     
+                                                   
+8b,dPPYba,  88  ,adPPYb,d8  ,adPPYb,d8 ,adPPYYba,  
+88P'   `"8a 88 a8"    `Y88 a8"    `Y88 ""     `Y8  
+88       88 88 8b       88 8b       88 ,adPPPPP88  
+88       88 88 "8a,   ,d88 "8a,   ,d88 88,    ,88  
+88       88 88  `"YbbdP"Y8  `"YbbdP"Y8 `"8bbdP"Y8  
+                aa,    ,88  aa,    ,88             
+                 "Y8bbdP"    "Y8bbdP"    
 /Import Base CSS File*/
 @import url('https://arizse.github.io/ugly-as-fuck/changes/css/base.css');
 /*Root*/
