@@ -2,7 +2,7 @@
 
 
 @charset "UTF-8";
-@import "https://monstrousdev.github.io/themes/addons/tag-animations.css";
+@import url('https://monstrousdev.github.io/themes/addons/tag-animations.css');
 
 :root {
   --mc: var(--main-color);
