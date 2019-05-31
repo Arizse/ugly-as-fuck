@@ -73,12 +73,23 @@
   content: "}";
 }
 
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]::before { /*jekkster*/
+  content: "}";
+}
+
 
   /* on hover */
 
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="238153704736292884"]:hover::before{ /*me */
 content: "Tsunami";
 background-image: url(https://imgur.com/a/F1N6Ppr);
+background-size: cover;
+background-position: center;
+}
+
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]:hover::before{ /*jekkster */
+content: "Jek";
+background-image: url(https://cdn.discordapp.com/attachments/238438631566475265/583787009974468619/pfp_gif.gif);
 background-size: cover;
 background-position: center;
 }
@@ -142,8 +153,29 @@ background-position: center;
   filter: drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color))
 }
 
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]::before { /*jekkster*/
+  content: '';
+  color: transparent;
+  height: 15px;
+  width: 15px;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  bottom: -8px;
+  right: -8px;
+  pointer-events: none;
+  filter: drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color))
+}
+
+
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="238153704736292884"]::before { /*me again lol for icon*/
   background-image: url(https://i.imgur.com/XR6tTPx.jpg);
+  height: 20px;
+  width: 20px;
+}
+
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]::before { /*Jekkster for icon*/
+  background-image: url(https://cdn.discordapp.com/attachments/238438631566475265/583786984179367948/pfp_2.png);
   height: 20px;
   width: 20px;
 }
@@ -152,6 +184,22 @@ background-position: center;
   content: "Tsunami";
   background: url(https://i.imgur.com/q7XUCxq.gifv);
   color: #07d4a8;
+  left: -2px;
+  bottom: -20px;
+  background-size: cover;
+  background-position: center;
+  width: calc(100% +4px);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 2px;
+  text-shadow: 1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]:hover::before { /*jekkster*/
+  content: "Jek";
+  background: url(https://cdn.discordapp.com/attachments/238438631566475265/583787009974468619/pfp_gif.gif);
+  color: #000000;
   left: -2px;
   bottom: -20px;
   background-size: cover;
@@ -186,6 +234,24 @@ background-position: center;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]:hover::before { /*jekkster*/
+  transform: none;
+  background-size: cover;
+  background-position: center;
+  padding: 6px 10px;
+  height: auto;
+  width: auto;
+  box-sizing: border-box;
+  white-space: nowrap;
+  right: unset;
+  left: calc(100% - 13px);
+  bottom: -6px;
+  font-weight: 700;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+
 /* content */
 
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="238153704736292884"]:hover::before { /*mee */
@@ -197,8 +263,24 @@ background-position: center;
   1px 0 black,
   0 -1px black !important;
 }
+
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]:hover::before { /*jekkster*/
+  content: 'Jek';
+  color: #000000;
+  background-image: url(https://cdn.discordapp.com/attachments/238438631566475265/583787009974468619/pfp_gif.gif);
+  text-shadow: -1px 0 black,
+  0 1px black,
+  1px 0 black,
+  0 -1px black !important;
+}
  
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="238153704736292884"]:hover::before { /*me */
+  display: block;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]:hover::before { /*jekkster */
   display: block;
   background-color: transparent;
   box-shadow: none;
@@ -247,6 +329,10 @@ background-position: center;
 
 /* popin */
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="238153704736292884"]:hover::before { /*me */ 
+  animation: popoutanim .2s;
+}
+
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="156393305880526848"]:hover::before { /*jekkster*/ 
   animation: popoutanim .2s;
 }
 
