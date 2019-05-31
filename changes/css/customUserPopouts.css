@@ -5,6 +5,7 @@
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="254362351170617345"] + .status-oxiHuE, /*Tropical*/
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="286208664623120384"] + .status-oxiHuE, /*Spectra*/
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="238153704736292884"] + .status-oxiHuE, /*me*/ 
+#app-mount .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="156393305880526848"] + .status-oxiHuE, /*jekkster*/ 
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .status-oxiHuE,
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .status-oxiHuE,
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .status-oxiHuE,
@@ -37,6 +38,7 @@
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="254362351170617345"] + .online-2S838R, /*Tropical*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="286208664623120384"] + .online-2S838R, /*Spectra*/ 
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="238153704736292884"] + .online-2S838R, /*me*/
+.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="156393305880526848"] + .online-2S838R, /*jekkster*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .online-2S838R,
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .online-2S838R,
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .online-2S838R,
@@ -59,6 +61,7 @@
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="254362351170617345"] + .idle-3DEnRT, /*Tropical*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="286208664623120384"] + .idle-3DEnRT, /*Spectra*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="238153704736292884"] + .idle-3DEnRT, /*me*/
+.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="156393305880526848"] + .idle-3DEnRT, /*jekkster*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .idle-3DEnRT,
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .idle-3DEnRT,
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .idle-3DEnRT,
@@ -81,6 +84,7 @@
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="254362351170617345"] + .dnd-1_xrcq, /*Tropical*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="286208664623120384"] + .dnd-1_xrcq, /*Spectra*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="238153704736292884"] + .dnd-1_xrcq, /*me*/
+.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="156393305880526848"] + .dnd-1_xrcq, /*jekkster*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .dnd-1_xrcq,
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .dnd-1_xrcq,
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .dnd-1_xrcq,
@@ -103,6 +107,7 @@
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="254362351170617345"] + .streaming-2_dnHe, /*Tropical*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="286208664623120384"] + .streaming-2_dnHe, /*Spectra*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="238153704736292884"] + .streaming-2_dnHe,/*me*/
+.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="156393305880526848"] + .streaming-2_dnHe,/*jekkster*/
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .streaming-2_dnHe,
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .streaming-2_dnHe,
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="USER"] + .streaming-2_dnHe,
@@ -151,6 +156,15 @@
     background-image:url('https://media0.giphy.com/media/BHNfhgU63qrks/giphy.gif') !important;
 }
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="238153704736292884"] { /*me*/
+    animation:keyframePulseMain 1.5s ease infinite;
+    opacity:.75;
+}
+
+/*Jekkster*/
+.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="156393305880526848"] + .status-oxiHuE { /*Jekkster*/
+    background-image:url('https://cdn.discordapp.com/attachments/238438631566475265/583786962985680896/Kaneki_Gif_12.gif') !important;
+}
+.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="156393305880526848"] { /*Jekkster*/
     animation:keyframePulseMain 1.5s ease infinite;
     opacity:.75;
 }
