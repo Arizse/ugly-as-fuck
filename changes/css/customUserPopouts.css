@@ -167,6 +167,7 @@
 .userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="156393305880526848"] { /*Jekkster*/
     animation:keyframePulseMain 1.5s ease infinite;
     opacity:.75;
+    transform: translateX(40%) scale(1, 1);
 }
 
 /*USER*/
